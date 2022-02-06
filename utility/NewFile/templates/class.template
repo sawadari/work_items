@@ -1,0 +1,17 @@
+classdef &lit_name
+    %&NAME Summary of this class goes here
+    %   Detailed explanation goes here
+    %
+    % SEE ALSO:
+    %
+
+    % $Author: &author $  $Date: &date $ $Revision: &revision $
+    
+    properties
+    end
+    
+    methods
+    end
+    
+end
+
